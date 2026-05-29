@@ -1,46 +1,84 @@
-# Hi 👋 I'm Raghav Gupta
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mathematics+%26+Computing+Student;Java+%7C+DSA+%7C+React+Developer;Competitive+Programmer;Open+Source+Contributor" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=220&section=header&text=Raghav%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computing+Student;Competitive+Programmer;Java+%7C+DSA+%7C+React+Developer;Building+Projects+%26+Solving+Problems" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-```yaml
-name: Raghav Gupta
-education: Mathematics & Computing @ NIT Kurukshetra
+<table>
+<tr>
+<td width="50%">
 
-focus:
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - Full Stack Development
-  - AI/ML Projects
+```yaml id="k19j7d"
+name     : Raghav Gupta
+location : India 🇮🇳
+college  : NIT Kurukshetra
+branch   : Mathematics & Computing
 
-currently_learning:
-  - System Design
-  - Advanced Graph Algorithms
-  - Backend Development
+focus    :
+  ▸ Data Structures & Algorithms
+  ▸ Competitive Programming
+  ▸ Full Stack Development
+  ▸ AI & Machine Learning
 
-open_to:
-  - Open Source
-  - Internships
-  - Collaborations
+learning :
+  ▸ System Design
+  ▸ Advanced Graph Algorithms
+  ▸ Backend Development
 
-fun_fact:
-  - Debugs with coffee ☕
-  - Commits at midnight 🌙
+open_to  :
+  ▸ Open Source
+  ▸ Internships
+  ▸ Collaborations
+
+fun_fact :
+  ▸ Solves DSA late at night 🌙
+  ▸ Debugging with coffee ☕
 ```
 
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🚀 Current Goals
+# ⚡ What I'm Up To
 
-* Solve DSA problems daily
-* Contribute to Open Source
-* Build scalable full-stack projects
-* Improve competitive programming ratings
+<div align="center">
+
+|   🔭 Currently Building  | 🌱 Currently Learning |          👯 Open To          |      💬 Ask Me About      |
+| :----------------------: | :-------------------: | :--------------------------: | :-----------------------: |
+| Full-stack & AI projects |  System Design & LLMs | Collaborations & Open Source | Web Dev, DSA, Java, React |
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/)
+
+</div>
 
 ---
 
@@ -48,94 +86,62 @@ fun_fact:
 
 ## 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
 
 ## 🌐 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-## 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-## ☁️ Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Backend & Frameworks
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raghavguptaa7&show_icons=true&theme=tokyonight" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa7&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=raghavguptaa7&theme=tokyonight" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
 ---
 
-# 🐍 Contribution Graph
+## 🗄️ Databases
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raghavguptaa7/raghavguptaa7/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-* 🚀 Resume Analyzer
-* 🏋️ Gym Management System
-* ✈️ AI Travel Planner
-* 📈 Stock Analysis Project
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-# 🌐 Coding Profiles
+## 🤖 AI / ML
 
-<p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ---
 
-<p align="center">
-  ⭐ From <a href="https://github.com/raghavguptaa7">raghavguptaa7</a>
-</p>
+## ☁️ DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+
+### ⭐ "Consistency beats intensity."
+
+</div>
